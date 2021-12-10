@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "pId": 1,
+            "pName": "Not 20 Ultra",
+            "pPrice": "800",
+            "pCategory":"Samsoge",
+            "pProcess": "snapdragone 876+",
+            "pCameraf": "1 12px 1.2",
+            "pCamerab": "3 12px 15px 10px",
+            "pScreen": "soper amoled"
+        },
+        {
+            "pId": 2,
+            "pName": "S20 Ultra",
+            "pPrice": "900",
+            "pCategory":"Samsoge",
+            "pProcess": "snapdragone 877+",
+            "pCameraf": "1 15px 1.9",
+            "pCamerab": "3 10px 50px 30px",
+            "pScreen": "soper amoled"
+        },
+        {
+            "pId": 3,
+            "pName": "Iphone 13",
+            "pPrice": "1800",
+            "pCategory":"Mac",
+            "pProcess": "snapdragone 866",
+            "pCameraf": "1 12px 1.2",
+            "pCamerab": "3 12px 15px 10px",
+            "pScreen": "soper amoled"
+        },
+        {
+            "pId": 4,
+            "pName": "iPhone 12",
+            "pPrice": "900",
+            "pCategory":"Mac",
+            "pProcess": "snapdragone 850+",
+            "pCameraf": "1 12px 1.2",
+            "pCamerab": "3 12px 15px 10px",
+            "pScreen": "amoled"
+        },
+        {
+            "pId": 5,
+            "pName": "M11 Ulra",
+            "pPrice": "900",
+            "pCategory":"Xiaomi",
+            "pProcess": "snapdragone 876+",
+            "pCameraf": "1 12px 1.2",
+            "pCamerab": "3 12px 15px 10px",
+            "pScreen": "soper amoled"
+        },
+        {
+            "pId": 6,
+            "pName": "M10",
+            "pPrice": "500",
+            "pCategory":"Xiaomi",
+            "pProcess": "snapdragone 860+",
+            "pCameraf": "1 12px 1.2",
+            "pCamerab": "3 12px 15px 10px",
+            "pScreen": "soper amoled"
+        }
+    ]
+  }
